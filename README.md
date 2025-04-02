@@ -1,6 +1,9 @@
 # dxfHelper
 在qt中用于解析dxf文件
 
+全新封装dxf解析库，位于 [dxf_reader](https://github.com/sorrowfeng/dxf_reader)
+更加直观清晰，易用
+
 # Spline
 解析样条曲线的库在 [spline_library](https://github.com/sorrowfeng/spline_library)
 
