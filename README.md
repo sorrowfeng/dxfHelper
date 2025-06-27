@@ -112,9 +112,4 @@ int main()
 - `TypeCatmullRom`：Catmull-Rom 样条
 - 更多样条类型持续更新中...
 
----
 
-## 📎 GitHub 地址
-
-- 📂 **DXF 解析库**: [dxf_reader](https://github.com/sorrowfeng/dxf_reader)
-- 📂 **样条曲线库**: [spline_library](https://github.com/sorrowfeng/spline_library)
