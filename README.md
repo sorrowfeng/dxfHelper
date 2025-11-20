@@ -85,7 +85,7 @@ target_link_libraries(your_target PRIVATE dxflib)
 
 # 📉 样条曲线解析库 - `spline_library`
 
-用于将控制点转换为平滑的 `QPainterPath`，适用于样条曲线渲染。
+[spline_library](https://github.com/sorrowfeng/spline_library.git): 用于将控制点转换为平滑的 `QPainterPath`，适用于样条曲线渲染。
 
 ---
 
